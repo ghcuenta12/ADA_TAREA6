@@ -1,7 +1,4 @@
----
-title: "DOCUMENTACIÓN DEL SCRIPT Script_T6.R"
-output: html_document
----
+### "DOCUMENTACIÓN DEL SCRIPT Script_T6.R"
 
 #####  **MAESTRIA EN CIENCIAS EN INFORMÁTICA**
 ##### **ALUMNO**    : CARLOS MARTINEZ O.

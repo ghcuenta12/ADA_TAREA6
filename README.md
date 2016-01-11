@@ -20,7 +20,6 @@ https://github.com/ghcuenta12/ADA_TAREA6.git
 Script_T6.R
 
 **3.** El contenido del script utiliza los siguientes archivos:
-
 * StormEvents_fatalities-ftp_v1.0_d2000_c20150826.csv.gz
 * StormEvents_fatalities-ftp_v1.0_d2001_c20150826.csv.gz
 * StormEvents_fatalities-ftp_v1.0_d2002_c20150826.csv.gz
@@ -36,6 +35,25 @@ Script_T6.R
 Se encuentran ubicados en la direccion:
 
 http://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+
+
+**El Script realiza las siguientes funcionalidades:**
+
+**A)** Cargar los paquetes necesarios.
+
+**B)** Establece el directorio del trabajo.
+
+**C)** Crea un directorio de Descargas.
+
+**D)** Crea un directorio de Datos.
+
+**E)** Busca los archivo en los directorios de Datos y Descarga, en caso de no encontralos los descarga.
+
+**F)** Descompacta los archivos.
+
+**G)** Lee los archivos uno por uno y finalmente los fusiona en uno solo, indicando el número de registros.
+
+**h)** Muestra el número de registros del archivo final fusionado.
 
 
 **4.** El script debe ejecutarse sin ninguna instalación previa de paquetes o directorios, ni descarga de archivos, ya que dichas acciones las realiza automáticamente.
